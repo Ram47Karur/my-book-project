@@ -1,4 +1,4 @@
-omg
+hello
 Line from master
 hey master
 hello
