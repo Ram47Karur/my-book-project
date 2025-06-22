@@ -1,4 +1,4 @@
-Line from second location - test conflict
+omg
 Line from master
 hey master
 hello
